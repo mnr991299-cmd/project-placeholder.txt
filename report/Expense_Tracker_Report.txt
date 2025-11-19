@@ -1,0 +1,22 @@
+# Expense Tracker Project Report
+
+## Introduction
+This project is a Python-based Expense Tracker that helps users record, view, and manage their expenses.
+
+## Features
+1. Add expenses
+2. View all expenses
+3. Save expenses to a file
+4. Simple and easy to use
+
+## Files in the Project
+- expense_tracker.py (Python code)
+- screenshots folder (to store images)
+- recordings folder (to store video)
+- report folder (this report file)
+
+## Working
+The program allows the user to enter money spent, the purpose, and date. All expenses are saved in a list and shown to the user.
+
+## Conclusion
+This project helps improve Python skills and basic file handling.
